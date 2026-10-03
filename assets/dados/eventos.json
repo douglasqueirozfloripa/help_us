@@ -1,0 +1,52 @@
+[
+  {
+    "id": "feira-inclusiva-sj-2026",
+    "nome": "Feira Inclusiva de São José",
+    "cidade": "São José",
+    "local": "Continente Shopping",
+    "endereco": "Rod. BR-101, Km 210, Picadas do Sul",
+    "parceiro": "Continente Shopping",
+    "inicio": "2026-10-17T10:00:00",
+    "fim": "2026-10-17T18:00:00",
+    "latitude": -27.585531,
+    "longitude": -48.614722,
+    "raioMetros": 400,
+    "whatsappCentral": "5548999990001",
+    "administradores": [
+      { "nome": "Cleiton", "funcao": "organização", "whatsapp": "5548999990002" },
+      { "nome": "Equipe de acessibilidade", "funcao": "atendimento PCD", "whatsapp": "5548999990003" }
+    ]
+  },
+  {
+    "id": "corrida-garapuvu-floripa-2026",
+    "nome": "Corrida e Caminhada Garapuvu",
+    "cidade": "Florianópolis",
+    "local": "Beira-Mar Norte",
+    "parceiro": "Projeto Social Garapuvu",
+    "inicio": "2026-11-08T07:00:00",
+    "fim": "2026-11-08T12:00:00",
+    "latitude": -27.5845,
+    "longitude": -48.545,
+    "raioMetros": 2500,
+    "whatsappCentral": "5548999990010",
+    "administradores": [
+      { "nome": "Douglas", "funcao": "organização", "whatsapp": "5548999990011" }
+    ]
+  },
+  {
+    "id": "festival-cultural-palhoca-2026",
+    "nome": "Festival Cultural de Palhoça",
+    "cidade": "Palhoça",
+    "local": "Centro de Eventos",
+    "parceiro": "Komprão Koch Atacadista",
+    "inicio": "2026-12-05T16:00:00",
+    "fim": "2026-12-05T23:00:00",
+    "latitude": -27.645,
+    "longitude": -48.669,
+    "raioMetros": 500,
+    "whatsappCentral": "5548999990020",
+    "administradores": [
+      { "nome": "Central do festival", "funcao": "", "whatsapp": "5548999990020" }
+    ]
+  }
+]

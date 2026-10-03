@@ -1,0 +1,28 @@
+# Sistema
+.DS_Store
+*.swp
+.idea/
+*.iml
+.vscode/
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+
+# Testes (saídas geradas)
+test-results/
+
+# Acessibilidade web (Playwright)
+acessibilidade-web/node_modules/
+acessibilidade-web/playwright-report/
+acessibilidade-web/test-results/
+acessibilidade-web/videos/
+
+# Configuração local do Claude Code
+.claude/settings.local.json
